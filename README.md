@@ -6,6 +6,7 @@ First, run the development server:
 
 ```shell
 yarn install
+npx thirdweb install
 yarn dev
 ```
 
